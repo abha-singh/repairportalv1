@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [PhillipinesTesting]]">
+  <listeners>
+    <listener class-name="com.ph.utilities.Reporting"/>
+  </listeners>
+  <test name="RepairportalTest(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.ph.testcases.Datadrivenclass">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="Dataread" invocation-numbers="1 2"/>
+        </methods>
+      </class> <!-- com.ph.testcases.Datadrivenclass -->
+    </classes>
+  </test> <!-- RepairportalTest(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [PhillipinesTesting]] -->

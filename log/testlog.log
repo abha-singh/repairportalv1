@@ -1,0 +1,84 @@
+2019-04-28 15:37:36,696 - PHrepairportal -INFO - object created
+2019-04-28 15:37:36,723 - PHrepairportal -INFO - error
+2019-04-28 15:54:52,747 - PHrepairportal -INFO - object created
+2019-04-28 15:54:52,757 - PHrepairportal -INFO - error
+2019-04-28 15:58:22,376 - PHrepairportal -INFO - object created
+2019-04-28 15:58:22,386 - PHrepairportal -INFO - error
+2019-04-29 11:40:42,493 - PHrepairportal -INFO - Login done
+2019-04-29 11:42:05,094 - PHrepairportal -INFO - Estimation done
+2019-04-29 11:42:24,017 - PHrepairportal -INFO - Upload file done
+2019-04-29 11:42:32,695 - PHrepairportal -INFO - Repair done
+2019-05-17 15:15:28,453 - PHrepairportal -INFO - IMEI available or not
+2019-05-17 15:18:24,532 - PHrepairportal -INFO - IMEI available or not
+2019-05-17 15:41:05,911 - PHrepairportal -INFO - IMEI available or not
+2019-05-17 15:44:40,306 - PHrepairportal -INFO - IMEI available or not
+2019-05-17 15:59:23,667 - PHrepairportal -INFO - IMEI available or not
+2019-05-17 16:03:49,506 - PHrepairportal -INFO - IMEI available or not
+2019-05-17 16:08:00,528 - PHrepairportal -INFO - IMEI available or not
+2019-05-17 16:22:47,126 - PHrepairportal -INFO - IMEI available or not
+2019-06-13 15:59:15,111 - PHrepairportal -INFO - IMEI available or not
+2019-06-13 15:59:15,367 - PHrepairportal -INFO - IMEI not available then print count
+2019-06-13 16:27:31,653 - PHrepairportal -INFO - IMEI available or not
+2019-06-13 16:37:46,774 - PHrepairportal -INFO - IMEI available or not
+2019-06-13 17:08:43,244 - PHrepairportal -INFO - IMEI available or not
+2019-06-29 13:36:28,149 - PHrepairportal -INFO - Login test passed
+2019-06-29 13:37:50,640 - PHrepairportal -INFO - IMEI not available then print count
+2019-06-29 23:23:00,041 - PHrepairportal -INFO - Login test passed
+2019-06-29 23:24:22,090 - PHrepairportal -INFO - IMEI not available then print count
+2019-06-30 13:18:35,834 - PHrepairportal -INFO - user name provided
+2019-06-30 13:18:36,061 - PHrepairportal -INFO - psw name provided
+2019-06-30 13:25:28,052 - PHrepairportal -INFO - user name provided
+2019-06-30 13:25:28,145 - PHrepairportal -INFO - psw name provided
+2019-06-30 13:27:18,253 - PHrepairportal -INFO - user name provided
+2019-06-30 13:27:18,338 - PHrepairportal -INFO - psw name provided
+2019-06-30 13:30:57,249 - PHrepairportal -INFO - user name provided
+2019-06-30 13:30:57,394 - PHrepairportal -INFO - psw name provided
+2019-06-30 13:40:56,848 - PHrepairportal -INFO - user name provided
+2019-06-30 13:40:56,988 - PHrepairportal -INFO - psw name provided
+2019-06-30 13:48:18,088 - PHrepairportal -INFO - user name provided
+2019-06-30 13:48:18,179 - PHrepairportal -INFO - psw name provided
+2019-06-30 13:59:29,598 - PHrepairportal -INFO - user name provided
+2019-06-30 13:59:29,693 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:02:31,643 - PHrepairportal -INFO - user name provided
+2019-06-30 15:02:31,720 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:02:47,234 - PHrepairportal -INFO - user name provided
+2019-06-30 15:02:47,312 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:04:22,784 - PHrepairportal -INFO - user name provided
+2019-06-30 15:04:22,909 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:14:36,092 - PHrepairportal -INFO - user name provided
+2019-06-30 15:14:36,240 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:26:59,940 - PHrepairportal -INFO - user name provided
+2019-06-30 15:27:00,056 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:35:29,085 - PHrepairportal -INFO - user name provided
+2019-06-30 15:35:29,205 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:37:18,738 - PHrepairportal -INFO - user name provided
+2019-06-30 15:37:18,841 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:42:58,379 - PHrepairportal -INFO - user name provided
+2019-06-30 15:42:58,552 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:45:37,813 - PHrepairportal -INFO - user name provided
+2019-06-30 15:45:41,284 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:55:09,340 - PHrepairportal -INFO - user name provided
+2019-06-30 15:55:09,450 - PHrepairportal -INFO - psw name provided
+2019-06-30 15:59:06,912 - PHrepairportal -INFO - user name providedarc_ph
+2019-06-30 15:59:07,094 - PHrepairportal -INFO - psw name providedarc@123
+2019-06-30 16:03:19,761 - PHrepairportal -INFO - user name providedarc_ph
+2019-06-30 16:03:19,951 - PHrepairportal -INFO - psw name providedarc@123
+2019-06-30 21:32:33,027 - PHrepairportal -INFO - user name providedarc_ph
+2019-06-30 21:32:33,158 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-01 12:56:23,610 - PHrepairportal -INFO - user name providedarc_ph
+2019-07-01 12:56:33,755 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-01 14:16:24,861 - PHrepairportal -INFO - user name providedarc_ph
+2019-07-01 14:16:25,002 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-01 14:18:28,051 - PHrepairportal -INFO - user name providedarc_ph
+2019-07-01 14:18:28,186 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-01 14:28:10,793 - PHrepairportal -INFO - user name providedarc_ph
+2019-07-01 14:28:10,885 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-01 14:45:14,356 - PHrepairportal -INFO - user name providedarc_ph
+2019-07-01 14:45:26,511 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-01 15:59:26,637 - PHrepairportal -INFO - user name providedarc_ph
+2019-07-01 15:59:26,727 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-01 16:48:22,526 - PHrepairportal -INFO - user name providedarc_ph
+2019-07-01 16:48:24,137 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-01 17:07:15,729 - PHrepairportal -INFO - user name providedarc_ph
+2019-07-01 17:07:16,053 - PHrepairportal -INFO - psw name providedarc@123
+2019-07-05 15:36:54,108 - PHrepairportal -INFO - Login test passed

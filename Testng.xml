@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PhillipinesTesting">
+<listeners>
+<listener class-name="com.ph.utilities.Reporting">
+</listener>
+</listeners>
+	<test name="RepairportalTest">
+	<parameter name="browser" value="chrome"/>
+	
+		<classes>
+			<class name="com.ph.testcases.Main_Testcase" /> 
+				<!-- <class name="com.ph.testcases.Datadrivenclass" />  -->
+		</classes>
+	</test>
+</suite>
