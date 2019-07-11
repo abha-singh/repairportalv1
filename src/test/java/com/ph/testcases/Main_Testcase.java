@@ -23,7 +23,7 @@ public class Main_Testcase extends Ph_baseclass{
 			obj.estimation(IMEI);
 	        logs.info("IMEI not available then print count");
 	        captureScreen(driver, "Login_test");
-	        obj.repairinprogress(IMEI, imagepath);
+	       // obj.repairinprogress(IMEI, imagepath);
 	        
 			}
 		@Test(enabled=false)
